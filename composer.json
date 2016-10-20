@@ -1,0 +1,14 @@
+{
+    "name": "buqiu/brphp",
+    "description": "This is a brophp framework",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "董坤鸿",
+            "email": "249529979@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
