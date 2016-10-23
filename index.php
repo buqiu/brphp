@@ -7,4 +7,8 @@
  * Time: 下午8:54
  */
 
-Bootstrap::run();
+//引入autoload.php文件
+include "vendor/autoload.php";
+
+//启动
+core\Bootstrap::run();
