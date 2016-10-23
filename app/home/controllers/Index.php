@@ -32,7 +32,7 @@ class Index {
     public function login() {
         return $this->view->make('home/index/login');
     }
-    
+
     /**
      * 验证码
      */
